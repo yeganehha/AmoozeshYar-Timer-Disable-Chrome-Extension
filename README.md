@@ -11,9 +11,9 @@ Deactivating the 2-minute timer on the Login page of Amoozesh yar website of Aza
 
 ## Installation
 
-[توضیحات و آموزش نصب به زبان فارسی](https://linktodocumentation)
+[توضیحات و آموزش نصب به زبان فارسی](https://github.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/blob/main/Documentation/Persian.md)
 
-[Installation in English](https://linktodocumentation)
+[Installation in English](https://github.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/blob/main/Documentation/English.md)
 
 
 ## Screenshots
