@@ -10,7 +10,15 @@
                 "http://stdn.iau.ac.ir/Student/captchaProcess",
                 "https://stdn.iau.ac.ir/Student/captchaProcess",
                 "http://stdn.iau.ac.ir/Student/manageAccount",
-                "https://stdn.iau.ac.ir/Student/manageAccount"
+                "https://stdn.iau.ac.ir/Student/manageAccount",
+                "http://stdn2.iau.ir/Student/captchaProcess",
+                "https://stdn2.iau.ac.ir/Student/captchaProcess",
+                "http://stdn2.iau.ac.ir/Student/manageAccount",
+                "https://stdn2.iau.ac.ir/Student/manageAccount",
+				"http://edun.iau.ac.ir/Education/captchaProcess",
+				"https://edun.iau.ac.ir/Education/captchaProcess",
+				"http://edun.iau.ac.ir/Education/manageAccount",
+				"https://edun.iau.ac.ir/Education/manageAccount"
             ],
             "js": ["main.js"],
             "run_at": "document_end"
