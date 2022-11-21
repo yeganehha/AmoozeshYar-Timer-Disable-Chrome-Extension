@@ -1,0 +1,22 @@
+{
+    "name": "Amoozesh yar timer disable",
+    "version": "1.0.0",
+    "description": "Deactivating the 2-minute timer on the Amoozesh yar website of Azad University, in order to avoid entering the code from igap messengers.",
+    "manifest_version": 3,
+    "author": "Erfan Ebrahimi",
+    "content_scripts": [
+        {
+            "matches": [
+                "http://stdn.iau.ac.ir/Student/captchaProcess",
+                "https://stdn.iau.ac.ir/Student/captchaProcess"
+            ],
+            "js": ["main.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "icons": {
+        "128": "icons/icon128.png",
+        "16": "icons/icon16.png",
+        "48": "icons/icon48.png"
+    }
+}
