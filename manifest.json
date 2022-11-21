@@ -8,7 +8,9 @@
         {
             "matches": [
                 "http://stdn.iau.ac.ir/Student/captchaProcess",
-                "https://stdn.iau.ac.ir/Student/captchaProcess"
+                "https://stdn.iau.ac.ir/Student/captchaProcess",
+                "http://stdn.iau.ac.ir/Student/manageAccount",
+                "https://stdn.iau.ac.ir/Student/manageAccount"
             ],
             "js": ["main.js"],
             "run_at": "document_end"
