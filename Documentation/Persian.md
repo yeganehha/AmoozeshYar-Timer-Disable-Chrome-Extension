@@ -4,10 +4,6 @@
 غیرفعال کردن تایمر 2 دقیقه ای صفحه ورود به سایت آموزش یار دانشگاه آزاد به منظور جلوگیری از وارد کردن کد از پیام رسان آیگپ.
 
 
-
-![Logo](https://raw.githubusercontent.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/main/Documentation/logo.png)
-
-
 ## نصب به روی مرورگر کروم (chrome)
 
 - آخرین ورژن افزونه را از [اینجا](https://github.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/releases/latest/) دانلود کنید.
@@ -25,7 +21,7 @@
 - پوشه استخراج شده واقع در درایو `C` را انتخاب نمایید.
 ## تصاویر
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/main/Documentation/screenshot.gif)
 
 
 ## پشتیبانی

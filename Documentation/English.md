@@ -4,10 +4,6 @@
 Deactivating the 2-minute timer on the Login page of Amoozesh yar website of Azad University, in order to avoid entering the code from igap messengers.
 
 
-
-![Logo](https://raw.githubusercontent.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/main/Documentation/logo.png)
-
-
 ## Installation on the Chrome browser
 
 - Download the latest version of the extension from [here](https://github.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/releases/latest/).
@@ -25,7 +21,7 @@ Deactivating the 2-minute timer on the Login page of Amoozesh yar website of Aza
 - Select the extracted folder located in drive `C`.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/yeganehha/AmoozeshYar-Timer-Disable-Chrome-Extension/main/Documentation/screenshot.gif)
 
 
 ## Support
